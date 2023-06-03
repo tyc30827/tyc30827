@@ -4,7 +4,7 @@ I am a data scientist and engineer and I'm from Taiwan!
 
 I'm a big fan for MLOps, passionate about leveraging data to derive valuable insights, intelligence via AI models and automatic workflows.
 
-I am dedicated to build automatic, robust, efficient, and reliable machine learning systems and applciations.
+I am dedicated to build automatic, robust, efficient, and reliable machine learning systems and applications.
 
 I believe that in the post-ChatGPT era, fine-tuning models of foundation models + MLOps will be a major trend.
 
