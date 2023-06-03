@@ -6,7 +6,7 @@ I'm a big fan for MLOps, passionate about leveraging data to derive valuable ins
 
 I am dedicated to build automatic, robust, efficient, and reliable machine learning systems and applciations.
 
-I believe that in the post-ChatGPT era, fine-tuning model of LLM + MLOps will be a major trend.
+I believe that in the post-ChatGPT era, fine-tuning models of foundation models + MLOps will be a major trend.
 
 Furthermore, I am the first author of a paper proposing an attentive graph neural network for financial time-series predicion. This [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001750) was published in a top-tier computer science journal called Information Fusion.
 
@@ -21,7 +21,7 @@ Furthermore, I am the first author of a paper proposing an attentive graph neura
       - RDBMS: SQL Server, MySQL
       - NoSQL: AWS Neptune
     - Workflow Orchestration: Airflow
-    - Data Processing: Pyspark, AWS Athena, AWS Kinesis, AWS Lambda
+    - Data Processing: PySpark, AWS Athena, AWS Kinesis, AWS Lambda
     - Data Warehouse: Kylin
     - Data Lake / Lakehouse: AWS S3, Databricks
     - Visualization: Superset, Tableau
