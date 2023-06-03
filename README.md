@@ -10,6 +10,28 @@ I believe that in the post-ChatGPT era, fine-tuning model of LLM + MLOps will be
 
 Furthermore, I am the first author of a paper proposing an attentive graph neural network for financial time-series predicion. This [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001750) was published in a top-tier computer science journal called Information Fusion.
 
+- Tech stack
+  - Programming Languages: Python, SQL, Gremlin (Gremlin-python) | Java/C++ (Coursework when I was a student)
+  - Machine Learning
+    - Framework: PyTorch, Keras, Scikit-learn | Tensorflow (Coursework when I was a student)
+    - MLOps: MLflow, Airflow, Databricks, AWS SageMaker, Hugging Face (model finetuning)
+    - Domain: Recommendation, Financial Time-Series | Computer Vision
+  - Data Engineering
+    - Databases
+      - RDBMS: SQL Server, MySQL
+      - NoSQL: AWS Neptune
+    - Workflow Orchestration: Airflow
+    - Data Processing: Pyspark, AWS Athena, AWS Kinesis, AWS Lambda
+    - Data Warehouse: Kylin
+    - Data Lake / Lakehouse: AWS S3, Databricks
+    - Visualization: Superset, Tableau
+  - Cloud Platform: AWS
+    - Such as EC2, Rekognition, Personalize, VPC
+  - API Management
+    - Flask, AWS API Gateway
+  - Containerization: Docker
+  - Version Control: Git
+
 <!--
 **tyc30827/tyc30827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
