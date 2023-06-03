@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Willie 👋
+
+I am a data scientist and engineer and I'm from Taiwan!
+
+I'm a big fan for MLOps, passionate about leveraging data to derive valuable insights, intelligence via AI models and automatic workflows.
+
+I am dedicated to build automatic, robust, efficient, and reliable machine learning systems and applciations.
+
+I believe that in the post-ChatGPT era, fine-tuning model of LLM + MLOps will be a major trend.
+
+Furthermore, I am the first author of a paper proposing an attentive graph neural network for financial time-series predicion. This [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001750) was published in a top-tier computer science journal called Information Fusion.
 
 <!--
 **tyc30827/tyc30827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
